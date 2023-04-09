@@ -1,5 +1,5 @@
 ```
-- I'm peetank.
-- A beginner.
-- Learning web development.
+$ ./about
+-loves coding
+-from india
 ```
